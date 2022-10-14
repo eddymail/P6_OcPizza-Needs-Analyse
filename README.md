@@ -1,7 +1,7 @@
 # P6_Oc-Pizza-Analysis-of-customer-needs
 
 ## General informations
-This repository contains an application for the P7 of the **Grande École du Numérique** course.
+This repository contains detailed specifications of the P6 of the **Grande École du Numérique** course.
 
 ## Evaluation repository
 
